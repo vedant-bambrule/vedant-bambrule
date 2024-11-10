@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedant-bambrule
-- 👀 I’m interested in Software Developer 
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on projects with you
 - 📫 How to reach me 
